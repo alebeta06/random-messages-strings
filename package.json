@@ -1,0 +1,24 @@
+{
+  "name": "random-messages-strings",
+  "version": "1.0.0",
+  "description": "Random messages strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alebeta06/random-messages-strings.git"
+  },
+  "keywords": [],
+  "author": "Alejandro Betancourt <alebeta0000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alebeta06/random-messages-strings/issues"
+  },
+  "homepage": "https://github.com/alebeta06/random-messages-strings#readme",
+  "bin": {
+    "random-messages-strings": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
